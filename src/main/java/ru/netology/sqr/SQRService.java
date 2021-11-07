@@ -1,3 +1,5 @@
+package ru.netology.sqr;
+
 public class SQRService {
 
     public int squares(int numberfirst, int numbertwo) {

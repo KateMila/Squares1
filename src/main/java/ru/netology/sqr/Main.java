@@ -1,3 +1,4 @@
+package ru.netology.sqr;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,7 +7,7 @@ public class Main {
         int numbertwo = 200;
 
         SQRService service = new SQRService();
-        service.squares(numberfirst,numbertwo);
+        service.squares(numberfirst, numbertwo);
 
         return;
     }
