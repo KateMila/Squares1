@@ -9,6 +9,6 @@ public class Main {
         SQRService service = new SQRService();
         service.squares(numberFirst, numberTwo);
 
-        return;
     }
+
 }
